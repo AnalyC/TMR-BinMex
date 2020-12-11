@@ -1,0 +1,79 @@
+.nav {
+    background-color: black;
+     
+}
+h1{
+   
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.w-75 {
+    padding: 20px;
+    
+}
+.tarjeta{
+    text-align: center;
+    padding: 40px;
+}
+
+.formulario{
+    max-width: 450px;
+    height:auto;
+    background-color:rgb(145, 187, 224);
+    margin:10px auto;
+    padding:20px 20px;
+    
+    
+}
+#nombre {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 20px;
+}
+.btn{
+    background-color:#ffffff;
+    padding: 20px 20px;
+    width: 400px;
+
+}
+
+.nav{
+    background-color: black;
+}
+.lugares{
+    padding: 20px;
+}
+.conta{
+    padding: 20px;
+}
+.card-deck .btn{
+    width: min-content;
+    height: auto;
+}
+.redes{
+    padding: 40px;
+
+}
+.redes .btn{
+    width: min-content;
+}
+.redes img{
+    width: 100px;
+    height: 60px;
+}
+.redes h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.restaur{
+    padding: 40px;
+}
+.restaur img{
+    width: 250px;
+    height: 250px;
+}
+.restaur p{
+    text-align: left;
+    
+}
+.yutu{
+    padding: 40px;
+}
